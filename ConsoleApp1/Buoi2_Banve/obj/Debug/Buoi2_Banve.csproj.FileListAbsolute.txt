@@ -1,0 +1,20 @@
+D:\C#\aaaaa\ConsoleApp1\Buoi2_Banve\bin\Debug\Buoi2_Banve.exe.config
+D:\C#\aaaaa\ConsoleApp1\Buoi2_Banve\bin\Debug\Buoi2_Banve.exe
+D:\C#\aaaaa\ConsoleApp1\Buoi2_Banve\bin\Debug\Buoi2_Banve.pdb
+D:\C#\aaaaa\ConsoleApp1\Buoi2_Banve\obj\Debug\Buoi2_Banve.csproj.AssemblyReference.cache
+D:\C#\aaaaa\ConsoleApp1\Buoi2_Banve\obj\Debug\Buoi2_Banve.Form1.resources
+D:\C#\aaaaa\ConsoleApp1\Buoi2_Banve\obj\Debug\Buoi2_Banve.Properties.Resources.resources
+D:\C#\aaaaa\ConsoleApp1\Buoi2_Banve\obj\Debug\Buoi2_Banve.csproj.GenerateResource.cache
+D:\C#\aaaaa\ConsoleApp1\Buoi2_Banve\obj\Debug\Buoi2_Banve.csproj.CoreCompileInputs.cache
+D:\C#\aaaaa\ConsoleApp1\Buoi2_Banve\obj\Debug\Buoi2_Banve.exe
+D:\C#\aaaaa\ConsoleApp1\Buoi2_Banve\obj\Debug\Buoi2_Banve.pdb
+C:\Users\nhat\Desktop\ConsoleApp1 (1)\ConsoleApp1\Buoi2_Banve\bin\Debug\Buoi2_Banve.exe.config
+C:\Users\nhat\Desktop\ConsoleApp1 (1)\ConsoleApp1\Buoi2_Banve\bin\Debug\Buoi2_Banve.exe
+C:\Users\nhat\Desktop\ConsoleApp1 (1)\ConsoleApp1\Buoi2_Banve\bin\Debug\Buoi2_Banve.pdb
+C:\Users\nhat\Desktop\ConsoleApp1 (1)\ConsoleApp1\Buoi2_Banve\obj\Debug\Buoi2_Banve.csproj.AssemblyReference.cache
+C:\Users\nhat\Desktop\ConsoleApp1 (1)\ConsoleApp1\Buoi2_Banve\obj\Debug\Buoi2_Banve.Form1.resources
+C:\Users\nhat\Desktop\ConsoleApp1 (1)\ConsoleApp1\Buoi2_Banve\obj\Debug\Buoi2_Banve.Properties.Resources.resources
+C:\Users\nhat\Desktop\ConsoleApp1 (1)\ConsoleApp1\Buoi2_Banve\obj\Debug\Buoi2_Banve.csproj.GenerateResource.cache
+C:\Users\nhat\Desktop\ConsoleApp1 (1)\ConsoleApp1\Buoi2_Banve\obj\Debug\Buoi2_Banve.csproj.CoreCompileInputs.cache
+C:\Users\nhat\Desktop\ConsoleApp1 (1)\ConsoleApp1\Buoi2_Banve\obj\Debug\Buoi2_Banve.exe
+C:\Users\nhat\Desktop\ConsoleApp1 (1)\ConsoleApp1\Buoi2_Banve\obj\Debug\Buoi2_Banve.pdb
