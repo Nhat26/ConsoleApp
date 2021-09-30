@@ -29,6 +29,7 @@ namespace ConsoleApp1
                         break;
                     case 3:
                         a.TinhTongLuong();
+                        Console.Write("Co y sua");
                         break;
                     case 4:
                         a.dsluong();
